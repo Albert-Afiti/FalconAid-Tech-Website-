@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="45" height="32" viewBox="0 0 180 120">
+  <defs>
+    <linearGradient id="back" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#52677a"/>
+      <stop offset=".48" stop-color="#263a4d"/>
+      <stop offset="1" stop-color="#152433"/>
+    </linearGradient>
+    <linearGradient id="breast" x1="0" x2=".85" y1="0" y2="1">
+      <stop stop-color="#fffdf6"/>
+      <stop offset="1" stop-color="#b9c2c6"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#back)" d="M63 67 8 47l47 31L16 91l57-15z"/>
+  <path fill="#a6b2ba" d="m61 70-42-17m43 20L27 85m35-14L36 74" fill="none" stroke="#a6b2ba" stroke-width="3" stroke-linecap="round"/>
+  <path fill="#364d60" d="M82 67C68 48 48 25 48 7c13 6 24 16 34 28C76 20 74 9 78 2c15 12 25 27 32 47l15 13z"/>
+  <path fill="#425b6c" d="M88 66C76 47 67 25 72 8c12 10 21 23 28 38C98 29 98 17 103 9c12 15 19 31 22 51l14 2-27 14z"/>
+  <path fill="none" stroke="#a6b2ba" stroke-width="2.5" stroke-linecap="round" d="M53 11c17 12 30 28 42 48M57 22c15 10 27 23 38 40M64 34c13 8 23 18 33 31M75 45c9 6 16 13 23 22M77 15c11 14 20 29 26 46M103 16c8 14 13 28 16 45"/>
+  <path fill="url(#back)" d="M47 69c13-11 25-17 40-21 16-5 30-2 43-5 10-3 17-9 24-18l8-1-5 12c-4 9-11 15-20 19-3 13-13 23-28 29-17 7-37 8-53 1L47 69z"/>
+  <path fill="url(#breast)" d="M92 57c15-6 29-7 44-9-4 14-13 24-27 30-11 5-23 6-34 4 8-6 13-14 17-25z"/>
+  <path fill="#63717b" d="m92 68 14-2-9 6zm13 7 13-4-8 8zm14-13 13-3-8 8zm-35 16 11-4-6 8z"/>
+  <path fill="url(#back)" d="M135 35c4-10 12-16 22-16l11 6 7-2-8 11c-6 6-14 8-23 7l-7 7z"/>
+  <path fill="url(#back)" d="M139 32c5-9 12-12 20-10l9 5-9 4-8-2-9 7z"/>
+  <path fill="#d99b48" d="m169 24 10-2-5 8-7 2z"/>
+  <path fill="#e7ae58" d="m165 28 5-1 2 4-5 3z"/>
+  <circle cx="158" cy="29" r="3.1" fill="#e7ae58"/>
+  <circle cx="158" cy="29" r="1.45" fill="#111923"/>
+  <path fill="#182635" d="M156 33c5 2 10 6 12 13-5-3-10-4-15-2l-5-5z"/>
+  <path fill="#fffdf6" d="M144 42c6 2 11 2 16 1-5 4-10 5-15 3z"/>
+  <path d="m112 82 1 7-6 4m6-4 5 3m15-16 1 7-5 4m5-4 5 3m-32 7-5 2 5-5m10 5 5 1-5-4m10-3-5 4 6-1m10 2 5 1-5-4" fill="none" stroke="#d99b48" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
